@@ -1,0 +1,37 @@
+.homepage h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.homepage h2 {
+  text-align: center;
+}
+.homepage form {
+  width: 300px;
+  background-color: greenyellow;
+  padding: 40px 30px;
+  margin: 20px auto;
+  text-align:right;
+
+
+}
+.homepage form input {
+  padding: 8px 11px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom:20px ;
+  font-size: 18px;
+}
+.homepage form button {
+  height: 30px;
+  padding: 5px 8px;
+  margin-right: 20px;
+  border-radius: 5px;
+  color: blueviolet;
+  outline: none;
+  border: none;
+}
+button {
+  cursor: pointer;
+}

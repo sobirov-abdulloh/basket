@@ -1,0 +1,14 @@
+.basket_page{
+    margin: 50px 40%;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+
+th,th,td{
+    padding: 13px 15px;
+    border: 1px solid;
+    
+}
